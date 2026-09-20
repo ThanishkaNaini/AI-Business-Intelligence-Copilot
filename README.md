@@ -31,6 +31,7 @@ An interactive Business Intelligence application that combines Python, SQL, Stre
 
 ```bash
 pip install -r requirements.txt
+```
 
 3. Create a `.env` file in the project root.
 
@@ -47,18 +48,3 @@ python -m streamlit run app.py
 ```
 
 6. Open the local Streamlit URL shown in the terminal.
-
-## Example Copilot Questions
-
-- Which region has the highest sales?
-- Which category has the highest profit?
-- Which region has the lowest profit margin?
-- What are the total sales?
-- Who are the top customers by sales?
-- Which products generate the most sales?
-
-The Copilot also respects the Region, Category, and Year filters selected in the dashboard.
-
-## Project Workflow
-
-Raw Sales Data → Data Cleaning → SQLite Database → Interactive Analytics → Natural-Language Question → AI-Generated SQL → Query Execution → Business Explanation → Executive Summary
