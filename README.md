@@ -1,5 +1,9 @@
 # AI Business Intelligence Copilot
 
+## Live Demo
+
+[Open the AI Business Intelligence Copilot](https://thanishkanaini-ai-business-intelligence-copilot.streamlit.app)
+
 An interactive Business Intelligence application that combines Python, SQL, Streamlit, Plotly, and an LLM API to analyze sales data through dashboards, natural-language questions, and automated executive summaries.
 
 ## Key Features
